@@ -104,8 +104,8 @@ A unified API gateway for multiple LLM providers.
 
 ---
 ## 🤝 Let's Connect
-LINKEDIN URL :- https://www.linkedin.com/in/anuj-kaushal-723a09311/
-LEETCODE URL :- https://leetcode.com/u/AnujKaushal764/
+LINKEDIN URL :- https://www.linkedin.com/in/anuj-kaushal-723a09311
+LEETCODE URL :- https://leetcode.com/u/AnujKaushal764
 TWITTER URL:- https://x.com/anujbos2257E
 
 📩 Open to Backend Developer Internship opportunities, collaborations and open-source contributions.
